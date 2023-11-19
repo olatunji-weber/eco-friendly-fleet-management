@@ -35,7 +35,7 @@ The scripts in this repository will automate the deployment of a scalable and hi
     ```bash
     terraform init
     terraform plan
-    terraform apply
+    terraform apply -auto-approve
     ```
 
 ## Cleanup
